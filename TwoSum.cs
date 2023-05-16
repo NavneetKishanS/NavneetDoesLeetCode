@@ -1,7 +1,7 @@
 //LeetCode Solution
 //Problem : Two Sum (1)
 //Author: Navneet Kishan Srinivasan
-//Date: 16 May 2023
+//Date: 25 March 2023
 //Runtime: 173 ms
 //Memory: 44.2 MB
 public class Solution {
